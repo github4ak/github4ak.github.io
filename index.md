@@ -13,7 +13,7 @@ This is my experience
 
 ---
 ### Oracle India Pvt. Ltd
-Application Engineer | Bangalore, India | Jul 2016 - Jul 2020
+Application Engineer | Bangalore, India | Jul 2016 - Jul 2019
 <br><br>
 • Worked throughout the software development life cycle which included application design, analysis, development and testing process for Subscription Plan Management (SPM) system in Oracle Applications Labs, which is a core component responsible for creating contracts, subscribed services, computing usages and generating invoices for cloud subscriptions.
 
@@ -23,7 +23,7 @@ Application Engineer | Bangalore, India | Jul 2016 - Jul 2020
 
 ---
 ### Flipkart 
-Software Development Intern | Bangalore, India | Jul 2016 - Jul 2019
+Software Development Intern | Bangalore, India | Jul - Dec 2015
 <br><br>
 • Developed an android application to streamline the functionalities in a hub system, as a part of the MHT-TBH(Mother-hub and Transportation) team in Logistics with inputs and guidance from the Last mile and Hub-system team.
 

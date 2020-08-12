@@ -7,11 +7,16 @@ I am a final year master's student in Computer Science from the <a href="https:/
 ## Work Experience
 
 ### Motorola Solutions
+#### Software Engineer Intern | Jun-Aug, 2020
 This is my experience
 
 ---
 ### Oracle
-This is my experience
+• Worked throughout the software development life cycle which included application design, analysis, development and testing process for Subscription Plan Management (SPM) system in Oracle Applications Labs, which is a core component responsible for creating contracts, subscribed services, computing usages and generating invoices for cloud subscriptions.
+
+• Developed dashboards that visually track, analyze large volumes of data related to usages computed in SPM to help the management to investigate trends and discover insights.
+
+• Technologies used: Java SE Development Kit, Oracle Database,Openbravo ERP Platform,Apache Tomcat, Oracle WebLogic Server,Apache ActiveMQ,JUnit,Git, Oracle RightNow,Oracle JavaScript Extension Toolkit (JET), JavaScript, CSS3 ,HTML5
 
 ---
 ### Flipkart

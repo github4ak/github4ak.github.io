@@ -8,13 +8,13 @@ I am a final year master's student in Computer Science from the <a href="https:/
 
 ### Motorola Solutions
 Software Engineer Intern | West Valley City, USA | Jun-Aug 2020
-<br>
+<br><br>
 This is my experience
 
 ---
 ### Oracle India Pvt. Ltd
 Application Engineer | Bangalore, India | Jul 2016 - Jul 2020
-<br>
+<br><br>
 • Worked throughout the software development life cycle which included application design, analysis, development and testing process for Subscription Plan Management (SPM) system in Oracle Applications Labs, which is a core component responsible for creating contracts, subscribed services, computing usages and generating invoices for cloud subscriptions.
 
 • Developed dashboards that visually track, analyze large volumes of data related to usages computed in SPM to help the management to investigate trends and discover insights.
@@ -24,7 +24,7 @@ Application Engineer | Bangalore, India | Jul 2016 - Jul 2020
 ---
 ### Flipkart 
 Software Development Intern | Bangalore, India | Jul 2016 - Jul 2019
-<br>
+<br><br>
 • Developed an android application to streamline the functionalities in a hub system, as a part of the MHT-TBH(Mother-hub and Transportation) team in Logistics with inputs and guidance from the Last mile and Hub-system team.
 
 • Developed intuitive UI pages where the functionality of hub system and their performance parameters were presented which enabled quick and easy analysis of the hub's performance.

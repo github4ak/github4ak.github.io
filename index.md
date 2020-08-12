@@ -9,7 +9,9 @@ I am a final year master's student in Computer Science from the <a href="https:/
 ### Motorola Solutions
 Software Engineer Intern | West Valley City, USA | Jun-Aug 2020
 <br><br>
-This is my experience
+• Developed a .NET Application to decouple background service jobs, integrated with sub-modules which leverage the application to perform mission-critical tasks. This application also provides API routes for built-in features and has a comprehensive test suite. 
+
+• Technologies used: Azure Devops, Cosmos DB,.NET (C#),Moq, Docker, Kubernetes
 
 ---
 ### Oracle India Pvt. Ltd

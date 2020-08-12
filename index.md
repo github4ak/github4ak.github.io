@@ -2,7 +2,7 @@
 
 Welcome to my personal webpage.
 
-I am a final year master's student in Computer Science from the <a href="https://www.cs.utah.edu/">University of Utah</a>. My software engineering experiences have helped me understand and implement varied technologies in the software domain. I am looking forward to joining a team where I can help build end-to-end solutions, interact and learn from my peers, and contribute to the technological industry.
+I am a final year master's student in Computer Science from the <a href="https://www.cs.utah.edu/" target="_blank">University of Utah</a>. My software engineering experiences have helped me understand and implement varied technologies in the software domain. I am looking forward to joining a team where I can help build end-to-end solutions, interact and learn from my peers, and contribute to the technological industry.
 
 ## Work Experience
 

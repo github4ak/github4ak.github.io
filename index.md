@@ -33,14 +33,14 @@ Software Development Intern | Bangalore, India | Jul 2016 - Jul 2019
 
 ---
 
-## Academic Projects
+## Projects
 
-[Determining meterics for reconstruction of cornea using Image processing and neural network modeling](https://github.com/github4ak/image-processing-cornea)
+**Determining meterics for reconstruction of cornea using Image processing and neural network modeling** | <a href="https://github.com/github4ak/image-processing-cornea" target="_blank">GitHub</a>
 <br>
 Developed an image processing algorithm followed by a neural network model in MATLAB to predict post keratoplasty corneal thickness from preoperative measurements which aids in achieving predictable refractive errors after ALK (Anterior Lamellar Keratoplasty).
 <br>
 
-[Control of Hybrid Electric Vehicle (H.E.V) using fuzzy logic](https://github.com/github4ak/fuzzy-logic-HEV-controller)
+**Control of Hybrid Electric Vehicle (H.E.V) using fuzzy logic** | <a href="https://github.com/github4ak/fuzzy-logic-HEV-controller" target="_blank">GitHub</a>
 <br>
 Designed a fuzzy logic based controller for an H.E.V in MATLAB which involved modeling of various components of an H.E.V and validated the efficiency parameters which included generator power and scaling factor.
 <br>

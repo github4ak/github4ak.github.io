@@ -1,6 +1,6 @@
 ## About Me
 
-Welcome to my personal webpage.
+Welcome to my personal webpage. Find my GitHub page <a href="https://github.com/github4ak" target="_blank">here</a>.
 
 I am a final year master's student in Computer Science from the <a href="https://www.cs.utah.edu/" target="_blank">University of Utah</a>. My software engineering experiences have helped me understand and implement varied technologies in the software domain. I am looking forward to joining a team where I can help build end-to-end solutions, interact and learn from my peers, and contribute to the technological industry.
 

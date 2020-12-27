@@ -37,9 +37,15 @@ Software Development Intern | Bangalore, India | Jul - Dec 2015
 
 ## Projects
 
+**Developed a question answering system using natural language processing** | <a href="https://github.com/github4ak/prashnottar" target="_blank">GitHub</a>
+<br>
+Built a rule-based Q&A system for reading comprehension tasks in Python by applying text similarity, part-of-speech tagging, named-entity recognition techniques, used NLTK, and spaCy library.
+<br>
+
 **Determining meterics for reconstruction of cornea using Image processing and neural network modeling** | <a href="https://github.com/github4ak/image-processing-cornea" target="_blank">GitHub</a>
 <br>
-Developed an image processing algorithm followed by a neural network model in MATLAB to predict post keratoplasty corneal thickness from preoperative measurements which aids in achieving predictable refractive errors after ALK (Anterior Lamellar Keratoplasty).
+Developed an image processing algorithm followed by a neural network model in MATLAB to predict corneal thickness from preoperative measurements which aid in estimating refractive errors after surgery.
+Presented this work at Indian Eye Research Group ARVO-India Chapter 23rd Annual Meeting, July 2016
 <br>
 
 **Control of Hybrid Electric Vehicle (H.E.V) using fuzzy logic** | <a href="https://github.com/github4ak/fuzzy-logic-HEV-controller" target="_blank">GitHub</a>

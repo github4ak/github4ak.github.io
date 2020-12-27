@@ -3,7 +3,7 @@ logo: "/images/Dubare_Photo_Edited.jpg?raw=true" # your photo (or logo) here
 description: # your text below (remove <br> elements if you don't need line breaks)
   3+ years of software engineering experience. Pursuing a Master's in Computer Science from the University of Utah.
   <br><br>
-  Currently, looking for full-time software engineering roles starting May-2021.
+  <b>Currently, looking for full-time software engineering roles starting May-2021.</b>
   <br><br>
   <a href="https://www.linkedin.com/in/abishek-krishnan-9a423512a/" target="_blank">LinkedIn</a> | <a href="https://github.com/github4ak" target="_blank">GitHub</a>
 theme: jekyll-theme-minimal
